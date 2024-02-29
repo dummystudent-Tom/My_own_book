@@ -1,7 +1,7 @@
 (intro)=
 # Template Book
 
-_Write book intro here. This is the first page the student will see when opening the url._
+First edit for this example
 
 This book will be used to fork other books and make it easier to keep various software in those other books up to date.
 
